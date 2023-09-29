@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Abhishek Kumar Tamrakar</h1>
-<h3 align="center">Passionate Competitive Programmer and Full Stack Developer</h3>
+<h3 align="center">Passionate Competitive Programmer and Full Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kinitic013&label=Profile%20views&color=0e75b6&style=flat" alt="kinitic013" /> </p>
 
