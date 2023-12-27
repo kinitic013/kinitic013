@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **abhishektamrakar013@gmail.com**
 
-- 📄 Know about my experiences [Link]([https://drive.google.com/file/d/1tOZlYvGzXm--x5Hp3qzkyD4G4-DC7JRt/view?usp=drive_link](https://drive.google.com/file/d/1-HSyjAkYyNAqBxUP3lRbO8Si00LSk7cH/view?usp=sharing))
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1tOZlYvGzXm--x5Hp3qzkyD4G4-DC7JRt/view?usp=drive_link](https://drive.google.com/file/d/1-HSyjAkYyNAqBxUP3lRbO8Si00LSk7cH/view?usp=sharing)]([https://drive.google.com/file/d/1tOZlYvGzXm--x5Hp3qzkyD4G4-DC7JRt/view?usp=drive_link](https://drive.google.com/file/d/1-HSyjAkYyNAqBxUP3lRbO8Si00LSk7cH/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
