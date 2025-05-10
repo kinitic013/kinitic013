@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kinitic013&label=Profile%20views&color=0e75b6&style=flat" alt="kinitic013" /> </p>
 
-- 🌱 I’m currently learning **Docker, PHP, and MySQL**
+- 🌱 I’m currently learning **Backend Systems**
 
 - 💬 Ask me about **Competitive Programming**
 
